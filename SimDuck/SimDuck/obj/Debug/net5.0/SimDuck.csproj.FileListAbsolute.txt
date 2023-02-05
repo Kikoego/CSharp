@@ -1,0 +1,16 @@
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\bin\Debug\net5.0\SimDuck.exe
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\bin\Debug\net5.0\SimDuck.deps.json
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\bin\Debug\net5.0\SimDuck.runtimeconfig.json
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\bin\Debug\net5.0\SimDuck.runtimeconfig.dev.json
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\bin\Debug\net5.0\SimDuck.dll
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\bin\Debug\net5.0\SimDuck.pdb
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\obj\Debug\net5.0\SimDuck.csproj.AssemblyReference.cache
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\obj\Debug\net5.0\SimDuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\obj\Debug\net5.0\SimDuck.AssemblyInfoInputs.cache
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\obj\Debug\net5.0\SimDuck.AssemblyInfo.cs
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\obj\Debug\net5.0\SimDuck.csproj.CoreCompileInputs.cache
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\obj\Debug\net5.0\SimDuck.dll
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\obj\Debug\net5.0\refint\SimDuck.dll
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\obj\Debug\net5.0\SimDuck.pdb
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\obj\Debug\net5.0\SimDuck.genruntimeconfig.cache
+C:\Users\sllim\source\repos\SimDuck-master\SimDuck\obj\Debug\net5.0\ref\SimDuck.dll
