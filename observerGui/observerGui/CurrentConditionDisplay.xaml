@@ -1,0 +1,31 @@
+﻿<Window x:Class="WpfApp1.CurrentConditionDisplay"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="CurrentConditionDisplay" Height="300" Width="350">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="106*"/>
+            <ColumnDefinition Width="67*"/>
+            <ColumnDefinition Width="177*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="54*"/>
+            <RowDefinition Height="34*"/>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="44*"/>
+            <RowDefinition Height="111*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Температура" HorizontalAlignment="Center" VerticalAlignment="Center" Height="24" Width="86" Grid.Row="1"/>
+        <Label x:Name="ContTemp" Content="Label" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Grid.Column="1" Height="26" Width="38"/>
+        <CheckBox Content="Подписаться " HorizontalAlignment="Left" Margin="10,26,0,0" VerticalAlignment="Top" Width="109" Checked="CheckBox_Checked" Grid.ColumnSpan="2" Height="15"/>
+        <Label Content="Влажность" HorizontalAlignment="Center" VerticalAlignment="Center" Height="24" Width="86" Grid.Row="2"/>
+        <Label Content="Давление" HorizontalAlignment="Center" VerticalAlignment="Center" Height="24" Width="86" Grid.Row="3"/>
+        <Label x:Name="ContPress" Content="Label" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Grid.Column="1" Height="25" Width="38"/>
+        <Label x:Name="ContHum" Content="Label" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Grid.Column="1" Height="26" Width="38"/>
+
+    </Grid>
+</Window>
