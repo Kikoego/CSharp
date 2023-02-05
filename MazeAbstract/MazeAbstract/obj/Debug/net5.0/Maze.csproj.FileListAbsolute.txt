@@ -1,0 +1,16 @@
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\obj\Debug\net5.0\Maze.csproj.AssemblyReference.cache
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\obj\Debug\net5.0\Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\obj\Debug\net5.0\Maze.AssemblyInfoInputs.cache
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\obj\Debug\net5.0\Maze.AssemblyInfo.cs
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\obj\Debug\net5.0\Maze.csproj.CoreCompileInputs.cache
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\bin\Debug\net5.0\Maze.exe
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\bin\Debug\net5.0\Maze.deps.json
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\bin\Debug\net5.0\Maze.runtimeconfig.json
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\bin\Debug\net5.0\Maze.runtimeconfig.dev.json
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\bin\Debug\net5.0\Maze.dll
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\bin\Debug\net5.0\ref\Maze.dll
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\bin\Debug\net5.0\Maze.pdb
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\obj\Debug\net5.0\Maze.dll
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\obj\Debug\net5.0\ref\Maze.dll
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\obj\Debug\net5.0\Maze.pdb
+C:\Users\svetyukov.2020\source\repos\Maze\Maze\obj\Debug\net5.0\Maze.genruntimeconfig.cache
